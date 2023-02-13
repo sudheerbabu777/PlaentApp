@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  min-height: 100vh;
+  padding: 40px;
+  background-size: cover;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 54px;
+  font-weight: 600;
+  color: #05acff;
+  text-align: center;
+}
